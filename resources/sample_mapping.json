@@ -1,0 +1,24 @@
+{
+  "settings" : {
+    "number_of_shards" : 3
+  },
+  "mappings": {
+    "sitcoms": {
+      "properties": {
+        "Id": {
+          "type": "string"
+        },
+        "Labels": {
+          "properties": {
+            "Name": {
+              "type": "string"
+            },
+            "Confidence": {
+              "type": "double"
+            }
+          }
+        }
+      }
+    }
+  }
+}

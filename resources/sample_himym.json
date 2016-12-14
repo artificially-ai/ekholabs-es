@@ -1,0 +1,53 @@
+{
+  "Id": "How I Met Your Mother",
+  "Labels": [
+    {
+      "Confidence": 99.22223663330078,
+      "Name": "People"
+    },
+    {
+      "Confidence": 99.22225189208984,
+      "Name": "Person"
+    },
+    {
+      "Confidence": 99.21147155761719,
+      "Name": "Human"
+    },
+    {
+      "Confidence": 75.43466186523438,
+      "Name": "Team"
+    },
+    {
+      "Confidence": 70.67710876464844,
+      "Name": "Asleep"
+    },
+    {
+      "Confidence": 58.25389099121094,
+      "Name": "Flyer"
+    },
+    {
+      "Confidence": 58.25389099121094,
+      "Name": "Poster"
+    },
+    {
+      "Confidence": 57.05881881713867,
+      "Name": "Baby"
+    },
+    {
+      "Confidence": 57.05881881713867,
+      "Name": "Child"
+    },
+    {
+      "Confidence": 57.05881881713867,
+      "Name": "Kid"
+    },
+    {
+      "Confidence": 57.05881881713867,
+      "Name": "Newborn"
+    },
+    {
+      "Confidence": 55.15875244140625,
+      "Name": "Female"
+    }
+  ]
+}

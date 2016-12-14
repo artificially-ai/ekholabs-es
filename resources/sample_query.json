@@ -1,0 +1,21 @@
+{
+  "query": {
+    "bool": {
+      "must": [
+        {
+          "match": {
+            "Labels.Name": "People"
+          }
+        }
+      ],
+      "filter": {
+        "range": {
+          "Labels.Confidence": {
+            "gte": 50,
+            "lte": 100
+          }
+        }
+      }
+    }
+  }
+}

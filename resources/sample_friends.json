@@ -1,0 +1,65 @@
+{
+  "Id": "Friends",
+  "Labels": [
+    {
+      "Confidence": 98.87138366699219,
+      "Name": "People"
+    },
+    {
+      "Confidence": 98.87140655517578,
+      "Name": "Person"
+    },
+    {
+      "Confidence": 98.81620788574219,
+      "Name": "Human"
+    },
+    {
+      "Confidence": 88.41804504394531,
+      "Name": "Alcohol"
+    },
+    {
+      "Confidence": 88.41804504394531,
+      "Name": "Beverage"
+    },
+    {
+      "Confidence": 88.41804504394531,
+      "Name": "Drink"
+    },
+    {
+      "Confidence": 79.46038055419922,
+      "Name": "Drinking"
+    },
+    {
+      "Confidence": 53.64006805419922,
+      "Name": "Milkshake"
+    },
+    {
+      "Confidence": 52.39244079589844,
+      "Name": "Female"
+    },
+    {
+      "Confidence": 51.96514892578125,
+      "Name": "Cream"
+    },
+    {
+      "Confidence": 51.96514892578125,
+      "Name": "Creme"
+    },
+    {
+      "Confidence": 51.96514892578125,
+      "Name": "Dessert"
+    },
+    {
+      "Confidence": 51.96514892578125,
+      "Name": "Food"
+    },
+    {
+      "Confidence": 51.641990661621094,
+      "Name": "Portrait"
+    },
+    {
+      "Confidence": 51.641990661621094,
+      "Name": "Selfie"
+    }
+  ]
+}
